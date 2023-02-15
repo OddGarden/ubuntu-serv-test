@@ -1,1 +1,3 @@
 Hello World!
+
+This is some for info after initial clone from github. 
